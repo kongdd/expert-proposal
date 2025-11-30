@@ -1,0 +1,6 @@
+{
+  "name": "proposal-craft",
+  "version": "1.0.0",
+  "description": "科研项目申请书写作助手 - Research Proposal Writing Assistant",
+  "contextFileName": "GEMINI.md"
+}
