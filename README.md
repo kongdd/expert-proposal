@@ -14,3 +14,9 @@
 @./modules/03-研究内容.md
 @./modules/05-语言规范.md
 ```
+
+## Installation
+
+```bash
+gemini extensions install https://github.com/kongdd/expert-proposal # from git
+```
